@@ -1,6 +1,6 @@
 EN:
 
-Das ist eine Sammlung von sehr fixierte Resourcen, an den ich als Developer sehr lange gearbeitet habe. Bei diesen Resourcen gibt es auch welche, die in keinem Server zufinden sind. Ich veröffentliche damit nicht die datenbank, denn ich will, dass ihr selbt auch einbisschen diese Resourcen kenn, indem ihr selbst die Dantenbank aufbaut. Ihr könnt diese Resourcen auch testen, indem ihr connect zu disem Server (IP: 158.58.188.72) Ich hoffe, dass ihr viel Spaß damit habt. 
+This is a collection of very fixed resources that I have been working on for a very long time as a developer. With these resources there are also those that are not found in any server. I am not publishing the database, because I want you to know these resources a little bit by building the Dantenbank yourself. You can also test these resources by connect to dism server (IP: 158.58.188.72) I hope you have a lot of fun with it. Dev: SM Download Link: 
 
 Download Link: http://uploadb.me/apl89o8mm45b/SM.zip.html
 
